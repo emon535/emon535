@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 It's Foysal Ahmed Emon 
+
+#### Frontend Developer working with JavaScript and React Ecosystem.
 
 <!--
 **emon535/emon535** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
