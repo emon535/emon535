@@ -3,10 +3,10 @@
 #### Frontend Developer working with JavaScript and React Ecosystem.
 
 
-🔭 I’m currently working on a voting system project backed by blockchain with reactjs at Kona SL.
-🌱 I’m currently learning Next.js and more JavaScript.
-👯 I’m looking to collaborate on interesting frontend projects.
-📫 If you are interested find me on linkedin: https://www.linkedin.com/in/emon535/
+- 🔭 I’m currently working on a voting system project backed by blockchain with reactjs at Kona SL.
+- 🌱 I’m currently learning Next.js and more JavaScript.
+- 👯 I’m looking to collaborate on interesting frontend projects.
+- 📫 If you are interested find me on linkedin: https://www.linkedin.com/in/emon535/
 <!--
 **emon535/emon535** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
