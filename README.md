@@ -3,7 +3,7 @@
 #### Frontend Developer working with JavaScript and React Ecosystem.
 
 
-- 🔭 I’m currently working on a voting system project backed by blockchain with reactjs at Kona SL.
+- 🔭 I’m currently working on few products related to Managed pressure drilling with Kelda Dynamics.
 - 🌱 I’m currently learning Next.js and more JavaScript.
 - 👯 I’m looking to collaborate on interesting frontend projects.
 - 📫 If you are interested find me on linkedin: https://www.linkedin.com/in/emon535/
