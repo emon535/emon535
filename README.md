@@ -3,7 +3,8 @@
 #### Frontend Developer working with JavaScript and React Ecosystem.
 
 
-- 🔭 I’m currently working on few products related to Managed pressure drilling with Kelda Dynamics.
+- 🔭 I’m currently working on few products related to Care Home Agencies Automation CRM system.
+- 🔭 I’m currently Teaching at Newham Sixthform College as a ICT Lecturer.
 - 🌱 I’m currently learning Next.js and more JavaScript.
 - 👯 I’m looking to collaborate on interesting frontend projects.
 - 📫 If you are interested find me on linkedin: https://www.linkedin.com/in/emon535/
