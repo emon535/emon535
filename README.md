@@ -1,12 +1,13 @@
 ### Hi there 👋 It's Foysal Ahmed Emon 
 
-#### Frontend Developer working with JavaScript and React Ecosystem.
+#### Frontend Developer working with TypeScript, JavaScript, NextJS and React Ecosystem.
 
 
 - 🔭 I’m currently working on few products related to Care Home Agencies Automation CRM system.
-- 🔭 I’m currently Teaching at Newham Sixthform College as a ICT Lecturer.
-- 🌱 I’m currently learning Next.js and more JavaScript.
-- 👯 I’m looking to collaborate on interesting frontend projects.
+- 🔭 I have experience with teaching coding and programming  at Newham Sixthform College as a ICT Lecturer.
+- 🌱 I’m currently learning Next.js and TypeScript.
+- 👯 I’m looking to collaborate on interesting frontend and full-stack projects.
+- I m passionate about DevOps.
 - 📫 If you are interested find me on linkedin: https://www.linkedin.com/in/emon535/
 <!--
 **emon535/emon535** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
